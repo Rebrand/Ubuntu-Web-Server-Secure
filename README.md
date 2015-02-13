@@ -1,4 +1,4 @@
-Server Secure script 1.0 alpha by Rebrand - August 2014
+Server Secure script 1.0 alpha by Rebrand - January 2015
 - Contact : rebrand@abv.bg / rebrand@offensive-security.com
 - Author : Denislav Kostov
 - This Product Provided By : www.offensive-security.com
