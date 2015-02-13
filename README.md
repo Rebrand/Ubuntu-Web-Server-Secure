@@ -19,7 +19,7 @@ NOTE: This is a GUI installer script that depends on zenity.
 sudo tar -zxvf server-secure-by-rebrand.tar.gz
 cd server-secure-by-rebrand
 sudo chmod +x server-secure-by-Rebrand.sh.x
-gksudo server-secure-by-Rebrand.sh.x
+sudo ./server-secure-by-Rebrand.sh.x
 
 
 * Log File
