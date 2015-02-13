@@ -1,12 +1,8 @@
-#
-# Server Secure script 1.0 alpha by Rebrand - August 2014
-# 
-# - Contact : rebrand@abv.bg / rebrand@offensive-security.com
-#
-# - Author : Denislav Kostov
-#
-# - This Product Provided By : www.offensive-security.com
-#
+Server Secure script 1.0 alpha by Rebrand - August 2014
+- Contact : rebrand@abv.bg / rebrand@offensive-security.com
+- Author : Denislav Kostov
+- This Product Provided By : www.offensive-security.com
+
 DISCLAIMER: Use with care. This script is provided purely for alpha testing and can harm your system if used incorrectly
 
 NOTE: This is a GUI installer script that depends on zenity.
