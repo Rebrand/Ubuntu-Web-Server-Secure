@@ -18,7 +18,7 @@ NOTE: This is a GUI installer script that depends on zenity.
 - Install zenity if not already installed: sudo apt-get install zenity
 - Download the Server Secure by Rebrand script
 - Change Directory to the downloaded file : cd /path/to/download
-- From terminal enter : 
+- From terminal enter: 
 
 sudo tar -zxvf server-secure-by-rebrand.tar.gz
 cd server-secure-by-rebrand
