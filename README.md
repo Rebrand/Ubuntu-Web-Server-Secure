@@ -16,10 +16,10 @@ NOTE: This is a GUI installer script that depends on zenity.
 - Change Directory to the downloaded file : cd /path/to/download
 - From terminal enter: 
 
-sudo tar -zxvf server-secure-by-rebrand.tar.gz
-cd server-secure-by-rebrand
-sudo chmod +x server-secure-by-Rebrand.sh.x
-sudo ./server-secure-by-Rebrand.sh.x
+- sudo tar -zxvf server-secure-by-rebrand.tar.gz
+- cd server-secure-by-rebrand
+- sudo chmod +x server-secure-by-Rebrand.sh.x
+- sudo ./server-secure-by-Rebrand.sh.x
 
 
 * Log File
